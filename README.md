@@ -8,8 +8,6 @@
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
-
 ## General Information
 - The case study analyses the data of a finance company who gives loans at affordable interest rates
 - The goal is to analyse the historical data of loan applicants, some of whom have paid off the entire loan whereas some of them have defaulted.
@@ -17,15 +15,14 @@
 - For the applicants who are less likely to repay the loan the company can make decision to either reject their loan or to give loan at higher interest rate
 - The dataset being analysed for this case study is "loan.csv" file
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Loan when taken for the purpose of DEBT CONSOLIDATION is more likely to be defaulted
+- Loan applicants who have been employed for a longer period of time (say more than 10 years) are more likely to default the loan
+- Loan applicants who have been living on RENT or MORTGAGE are less likely to repay the loan
+- There are grades allocated to a loan applicants from A to G by LC. The applicants with grades after C are more likely to default the loan
+- Every loan applicant's income is verified. If not verified would result in more chances of getting defaulted.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used

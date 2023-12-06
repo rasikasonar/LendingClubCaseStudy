@@ -11,10 +11,11 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- The case study analyses the data of a finance company who gives loans at affordable interest rates
+- The goal is to analyse the historical data of loan applicants, some of whom have paid off the entire loan whereas some of them have defaulted.
+- The outcome of the case study is to help the finance company in deciding whether a new loan applicant is likely to pay the loan or whether they are less likely to repay the loan.
+- For the applicants who are less likely to repay the loan the company can make decision to either reject their loan or to give loan at higher interest rate
+- The dataset being analysed for this case study is "loan.csv" file
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 

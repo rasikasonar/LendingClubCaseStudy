@@ -32,11 +32,9 @@
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was done as a case study for UPGRAD masters course on AI ML.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@rasikasonar] - feel free to contact me!
 
